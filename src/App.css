@@ -1,6 +1,11 @@
 body {
   background-color: gainsboro;
 }
+/* .nav {
+  position: fixed;
+
+  top: 0;
+} */
 .text-edit-cont {
   height: 100vh;
   display: flex;
